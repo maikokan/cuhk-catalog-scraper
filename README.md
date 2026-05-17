@@ -16,8 +16,8 @@ Features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cuhk-catalog-scraper.git
-cd cuhk-catalog-scraper
+git clone https://github.com/maikokan/cusk-catalog-scraper.git
+cd cusk-catalog-scraper
 
 # Install dependencies (creates .venv automatically)
 uv sync
@@ -90,3 +90,7 @@ Output is saved as `CUHK_{SUBJECT}_{YYMMDDHHMM}.xlsx`
 ## License
 
 MIT
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or supported by The Chinese University of Hong Kong (CUHK). Course data is provided for convenience only. Users should verify details against the official catalog. Use responsibly and avoid running the scraper multiple times in short succession to avoid overloading the server. Ensure your use complies with CUHK's Terms of Service. If CUHK updates their website structure, the scraper may break and will require updates.
