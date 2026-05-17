@@ -16,8 +16,8 @@ Features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/maikokan/cusk-catalog-scraper.git
-cd cusk-catalog-scraper
+git clone https://github.com/maikokan/cuhk-catalog-scraper.git
+cd cuhk-catalog-scraper
 
 # Install dependencies (creates .venv automatically)
 uv sync
