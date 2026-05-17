@@ -1,0 +1,8 @@
+# CUHK Course Scraper Configuration
+course_subject: "FINA"          # Course subject code, e.g., "FINA", "ECON", "MATH", "PHIL"
+course_nbr_start: 5000          # Undergraduate: 0000, Postgraduate: 5000
+course_nbr_end: 6999            # Undergraduate: 4999, Postgraduate: 6999 
+enrollment: "MSc Finance"       # Undergraduate: Leave blank "". Postgraduate: "MSc in Marketing", "MSc Finance", etc. Check your program's exact name
+
+# Optional settings
+captcha_max_attempts: 10        
